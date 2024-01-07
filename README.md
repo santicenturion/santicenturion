@@ -13,7 +13,7 @@
 - 📫 How to reach me: **santiagocenturion.info@gmail.com**
 <h3>🤩Connect with me!</h3>
 <p>
-<a href="linkedin.com/in/santiagocenturión/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/santiagocenturión/" height="30" width="40" /></a>
+<a href="linkedin.com/in/santiagocenturión/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/santiagocenturión/" height="30" width="40"/></a>
 </p>
 
 <h3 align="center">🔨Languages and Tools:</h3>

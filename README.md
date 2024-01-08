@@ -12,9 +12,7 @@
 
 - 📫 How to reach me: **santiagocenturion.info@gmail.com**
 <h3>🤩Connect with me!</h3>
-<p>
-<a href="linkedin.com/in/santiagocenturión/" target="blank">Linkedin</a>
-</p>
+<a href="linkedin.com/in/santiagocenturión/" target="blank"> Linkedin </a>
 
 <h3 align="center">🔨Languages and Tools:</h3>
 <div align="center">

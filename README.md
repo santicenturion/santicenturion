@@ -7,11 +7,7 @@
 
 - 📚 I’m Computer Science Student at UNR.
 - 💻 Constantly learning and improving my programming skills.
-
-### 🔨 Skills
-- Programming Lenguages: C#, .Net, Typescript, Python, Terraform, SQL
-- Tools: Azure Devops, Atlassian, Git
-
+- ☁️ Cloud Computing (AWS) 
 
 ### 📫 Contact Me
 - Email: **santiagocenturion.info@gmail.com**
